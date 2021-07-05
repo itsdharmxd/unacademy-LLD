@@ -1,2 +1,4 @@
-package Structuredesignpatter.facade;public class MongoDBGenerator {
+package Structuredesignpatter.facade;
+
+public class MongoDBGenerator {
 }
